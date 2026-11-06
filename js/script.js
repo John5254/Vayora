@@ -4,7 +4,7 @@
 
 /* ---- 1. Your WhatsApp Business number (international, digits only) ----
    Change this one line to go live. Example: "2348012345678"            */
-var WHATSAPP_NUMBER = "2340000000000";
+var WHATSAPP_NUMBER = "2349163461313";
 
 (function () {
   "use strict";
